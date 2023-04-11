@@ -1,0 +1,6 @@
+[submodule "mcHannFrontApp"]
+	path = mcHannFrontApp
+	url = https://github.com/MarcosCM2000/mcHannFrontApp.git
+[submodule "mcHahnAPI"]
+	path = mcHahnAPI
+	url = https://github.com/MarcosCM2000/mcHahnAPI.git
