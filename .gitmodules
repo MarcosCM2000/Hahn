@@ -1,0 +1,3 @@
+[submodule "mcHahnAPI"]
+	path = mcHahnAPI
+	url = https://github.com/MarcosCM2000/mcHahnAPI.git
